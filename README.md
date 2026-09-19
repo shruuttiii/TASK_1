@@ -127,9 +127,4 @@ Possible improvements include:
 * Adding a graphical or web-based interface
 * Connecting the chatbot to external APIs or databases
 
-## 👩‍💻 Author
 
-**Shruti Jadhav**
-
-BSc Data Science
-Artificial Intelligence Internship — DecodeLabs
